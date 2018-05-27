@@ -19,3 +19,5 @@
    Only "Quiz" button in the side menu works and other does not work.
       
    Sometime a quiz will not shown up even if user is close enough to a quiz point because of GPS accuracy. 
+   
+![image](https://user-images.githubusercontent.com/39371515/40588148-0cd87d8a-61d1-11e8-90a9-5a698e4945db.png)
