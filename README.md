@@ -1,5 +1,4 @@
 # CEGEG077-QuizApp
-# Quiz-App
 # Tachnical and User guide
   This is a location-based quiz app. A quiz will be asked when user is closed to a quiz point. The usage is as follows:
   
